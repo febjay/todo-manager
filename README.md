@@ -22,9 +22,3 @@ json
     "done": false
 }
 text
-
-Затем добавьте файл в git:
-```bash
-git add README.md
-git commit -m "add README"
-git push
